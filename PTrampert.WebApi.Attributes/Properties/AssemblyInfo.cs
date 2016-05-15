@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("PTrampert.WebApi.Attributes")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Library of common attributes for use in ASP.NET WebApi 2.0")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("PTrampert.WebApi.Attributes")]
