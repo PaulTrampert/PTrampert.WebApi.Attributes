@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("PTrampert.WebApi.Attributes")]
 [assembly: AssemblyDescription("Library of common attributes for use in ASP.NET WebApi 2.0")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Paul Trampert")]
 [assembly: AssemblyProduct("PTrampert.WebApi.Attributes")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
