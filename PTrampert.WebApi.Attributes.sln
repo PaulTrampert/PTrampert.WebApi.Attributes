@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTrampert.WebApi.Attributes", "PTrampert.WebApi.Attributes\PTrampert.WebApi.Attributes.csproj", "{0F64F02E-D10E-4A44-9962-C33425DDD513}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTrampert.WebApi.Attributes.Test", "PTrampert.WebApi.Attributes.Test\PTrampert.WebApi.Attributes.Test.csproj", "{17794CA7-0274-4EEA-B03F-2DC55DBFB342}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F64F02E-D10E-4A44-9962-C33425DDD513}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F64F02E-D10E-4A44-9962-C33425DDD513}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F64F02E-D10E-4A44-9962-C33425DDD513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17794CA7-0274-4EEA-B03F-2DC55DBFB342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17794CA7-0274-4EEA-B03F-2DC55DBFB342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17794CA7-0274-4EEA-B03F-2DC55DBFB342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17794CA7-0274-4EEA-B03F-2DC55DBFB342}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

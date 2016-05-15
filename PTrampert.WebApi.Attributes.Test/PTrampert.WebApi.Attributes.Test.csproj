@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F64F02E-D10E-4A44-9962-C33425DDD513}</ProjectGuid>
+    <ProjectGuid>{17794CA7-0274-4EEA-B03F-2DC55DBFB342}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PTrampert.WebApi.Attributes</RootNamespace>
-    <AssemblyName>PTrampert.WebApi.Attributes</AssemblyName>
+    <RootNamespace>PTrampert.WebApi.Attributes.Test</RootNamespace>
+    <AssemblyName>PTrampert.WebApi.Attributes.Test</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
