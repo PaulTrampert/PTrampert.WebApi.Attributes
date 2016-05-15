@@ -11,7 +11,7 @@
   <Import Project="$(MSBuildCommunityTasksPath)\MSBuild.Community.Tasks.Targets" />
 
   <PropertyGroup>
-    <MainProject></MainProject>
+    <MainProject>PTrampert.WebApi.Attributes</MainProject>
     <Configuration Condition="$(Configuration) == ''">Debug</Configuration>
     <AssemblyVersion>$(Version).0</AssemblyVersion>
   </PropertyGroup>

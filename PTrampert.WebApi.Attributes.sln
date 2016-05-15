@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTrampert.WebApi.Attributes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PTrampert.WebApi.Attributes.Test", "PTrampert.WebApi.Attributes.Test\PTrampert.WebApi.Attributes.Test.csproj", "{17794CA7-0274-4EEA-B03F-2DC55DBFB342}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF3C7FDF-AD32-4AA3-966B-56D98AC05BBE}"
+	ProjectSection(SolutionItems) = preProject
+		CI.build = CI.build
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
