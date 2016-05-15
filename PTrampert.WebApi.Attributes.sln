@@ -10,6 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF3C7FDF-AD32-4AA3-966B-56D98AC05BBE}"
 	ProjectSection(SolutionItems) = preProject
 		CI.build = CI.build
+		Version.cs = Version.cs
 	EndProjectSection
 EndProject
 Global
